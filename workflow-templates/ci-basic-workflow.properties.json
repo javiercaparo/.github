@@ -1,0 +1,8 @@
+{
+    "name": "JavierCaparo Organization Workflow",
+    "description": "JavierCaparo Organization CI workflow template.",
+    "iconName": "octicon workflow",
+    "categories": [
+        "continuous-integration"
+    ]
+}
